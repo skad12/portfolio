@@ -8,7 +8,7 @@ function portfolio() {
 <>
 
 <Head>
-  <title>Olakunle's Portfolio</title>
+  <title>Olakunle&apos;s Portfolio</title>
   <link rel="icon" href="/briefcase.png"></link>
 </Head>
 
