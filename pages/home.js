@@ -20,16 +20,16 @@ function portfolio() {
 
   <div className="text-4xl italic tracking-widest ">
 <div>
-  <span className="text-8xl">H</span>i, I'm <span className="text-8xl">O</span>lakunle <span className="text-8xl">S</span>tephen <span className="text-7xl animate-pulse">&#128075;</span></div>
+  <span className="text-8xl">H</span>i, I&apos;m <span className="text-8xl">O</span>lakunle <span className="text-8xl">S</span>tephen <span className="text-7xl animate-pulse">&#128075;</span></div>
 
   </div>
   <div className="space-y-5 text-2xl font-semibold ">
-<div>I'm a Front-end Developer based in Nigeria.</div> 
+<div>I&apos;m a Front-end Developer based in Nigeria.</div> 
  <div>I Code, Write and Build Stuff on the Internet.</div>
   </div>
 <div className="pt-10 space-y-5 text-2xl font-semibold">
-<div >I'm focused on building products with HTML5, CSS3 and JavaScript, Specifically Tailwindcss and Next.js .</div>
-<div>When I'm not coding, I'm likely at the gym or Playing Video Games (COD or PUGB).</div>
+<div >I&apos;m focused on building products with HTML5, CSS3 and JavaScript, Specifically Tailwindcss and Next.js .</div>
+<div>When I&apos;m not coding, I&apos;m likely at the gym or Playing Video Games (COD or PUGB).</div>
 <div>You can find me on <a href="https://github.com/skad12" className="text-blue-500 hover:underline">GitHub</a>, <a href="https://twitter.com/TheOnlySkad" className="text-blue-500 hover:underline">Twitter</a> or <a href="https://www.linkedin.com/in/afuwape-stephen-b917211b0/" className="text-blue-500 hover:underline">LinkedIn</a>.</div>
 </div>
 </div>

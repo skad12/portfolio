@@ -32,7 +32,7 @@ function project() {
   <div className="pt-10 space-y-6 tracking-wide text-black">  
     <div className="text-3xl font-bold text-center">What is Lorem Ipsum?</div>
     <div className="text-xl font-semibold ">this is a paragraphLorem Ipsum is simply dummy text of the printing and typesetting industry. 
-      Lorem Ipsum has been the industry's standard dummy <br />text ever since the 1500s, 
+      Lorem Ipsum has been the industry&apos;s standard dummy <br />text ever since the 1500s, 
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
       <div><button className="p-3 text-white bg-blue-500 rounded-2xl hover:bg-blue-700 hover:animate-bounce">Test-App</button></div>
   </div>
@@ -42,7 +42,7 @@ function project() {
   <div className="pt-10 space-y-6 tracking-wide text-black">  
     <div className="text-3xl font-bold text-center">What is Lorem Ipsum?</div>
     <div className="text-xl font-semibold ">this is a paragraphLorem Ipsum is simply dummy text of the printing and typesetting industry. 
-      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+      Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, 
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
       <div><button className="p-3 text-white bg-blue-500 rounded-2xl hover:bg-blue-700 hover:animate-bounce">Test-App</button></div>
   </div>
@@ -63,7 +63,7 @@ function project() {
   <div className="pt-10 space-y-6 tracking-wide text-black">  
     <div className="text-3xl font-bold text-center">What is Lorem Ipsum?</div>
     <div className="text-xl font-semibold ">this is a paragraphLorem Ipsum is simply dummy text of the printing and typesetting industry. 
-      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+      Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, 
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
       <div><button className="p-3 text-white bg-blue-500 rounded-2xl hover:bg-blue-700 hover:animate-bounce">Test-App</button></div>
   </div>
@@ -74,7 +74,7 @@ function project() {
  <div className="pt-10 space-y-6 tracking-wide text-black">  
     <div className="text-3xl font-bold text-center">What is Lorem Ipsum?</div>
     <div className="text-xl font-semibold ">this is a paragraphLorem Ipsum is simply dummy text of the printing and typesetting industry. 
-      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+      Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, 
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
       <div><button className="p-3 text-white bg-blue-500 rounded-2xl hover:bg-blue-700 hover:animate-bounce">Test-App</button></div>
   </div>
