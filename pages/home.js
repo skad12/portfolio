@@ -1,5 +1,5 @@
 import Head from "next/Head"
-import Navbar from "./Navbar"
+import Navbar from "../components/Navbar"
 
 
 function portfolio() {
