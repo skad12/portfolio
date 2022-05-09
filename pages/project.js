@@ -1,6 +1,6 @@
  import Head from 'next/Head'
  import Image from 'next/Image'
- import Navbar from './Navbar'
+ 
 
 
 function project() {

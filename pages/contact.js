@@ -1,5 +1,5 @@
 import Head from "next/Head"
-import Navbar from "./Navbar";
+
 
 function contact() {
     return ( 
