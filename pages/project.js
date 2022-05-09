@@ -18,7 +18,7 @@ function project() {
 
 <div className="pt-10 antialiased"  style={{ backgroundImage: ` url('https://images.pexels.com/photos/7794425/pexels-photo-7794425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')` }} >
 
-        <Navbar />
+        {/* <Navbar /> */}
 
 <div className="grid grid-cols-2 pt-48 pb-24 pl-16 gap-y-36">
 

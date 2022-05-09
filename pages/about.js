@@ -14,7 +14,7 @@ function about() {
         
 <div className="min-h-screen p-10 space-y-10 text-gray-200 bg-cover " style={{ backgroundImage: `url('https://images.pexels.com/photos/355853/pexels-photo-355853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`}}>
 
-<Navbar />
+{/* <Navbar /> */}
     
     <div className="pt-24">
 
