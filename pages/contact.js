@@ -18,8 +18,8 @@ function contact() {
 
     <div className= "pt-40 space-y-2">
     <div className="text-5xl font-bold text-gray-200">Contact</div>
-    <div className="text-2xl tracking-widest text-gray-300">Let's make something together. <span className="text-3xl">&#128170;</span></div>
-    <div className="pt-6 text-xl tracking-widest ">Feel free to send me an email if you're looking for a front end engineer, <br/>
+    <div className="text-2xl tracking-widest text-gray-300">Let&apos;s make something together. <span className="text-3xl">&#128170;</span></div>
+    <div className="pt-6 text-xl tracking-widest ">Feel free to send me an email if you&apos;re looking for a front end engineer, <br/>
         have a question or just want to say hi! 🙋‍♂️</div>
     </div>
 
