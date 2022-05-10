@@ -13,8 +13,7 @@ function portfolio() {
 
 <div className="min-h-screen pt-10 antialiased text-white bg-cover " style= {{ backgroundImage: `url('https://images.pexels.com/photos/355829/pexels-photo-355829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`}}>
 
-{/* <Navbar /> */}
-
+ 
 <div className="p-16 pt-24 space-y-10 ">
 
   <div className="text-4xl italic tracking-widest ">

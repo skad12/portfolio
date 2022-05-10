@@ -14,7 +14,7 @@ function contact() {
 
         <div className="min-h-screen pt-10 pl-32 antialiased text-white bg-cover" style={{ backgroundImage: `url('https://images.pexels.com/photos/414144/pexels-photo-414144.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')` }}>
            
-            {/* <Navbar /> */}
+            
 
     <div className= "pt-40 space-y-2">
     <div className="text-5xl font-bold text-gray-200">Contact</div>
