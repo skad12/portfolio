@@ -1,7 +1,7 @@
 import Head from 'next/Head'
 
 
-function contact() {
+function Contact() {
     return ( 
 
         <>
@@ -34,4 +34,4 @@ function contact() {
      );
 }
 
-export default contact;
+export default Contact;

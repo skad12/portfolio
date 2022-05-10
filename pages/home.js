@@ -1,7 +1,7 @@
 import Head from 'next/Head'
 
 
-function portfolio() {
+function Home() {
   return ( 
 
 <>
@@ -38,4 +38,4 @@ function portfolio() {
    );
 }
 
-export default portfolio;
+export default Home;

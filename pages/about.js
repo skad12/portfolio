@@ -1,7 +1,7 @@
 import Head from 'next/Head'
 
 
-function about() {
+function About() {
     return ( 
 
         <>
@@ -37,4 +37,4 @@ function about() {
      );
 }
 
-export default about;
+export default About;

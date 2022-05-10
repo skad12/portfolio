@@ -2,7 +2,7 @@
  import Image from 'next/Image'
 
 
-function project() {
+function Project() {
     return ( 
 
             <>
@@ -98,4 +98,4 @@ function project() {
      );
 }
 
-export default project;
+export default Project;
